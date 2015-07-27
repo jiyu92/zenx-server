@@ -1,0 +1,10 @@
+27 Jul 18:45:50 - [33m[nodemon] v1.3.8[39m
+27 Jul 18:45:50 - [33m[nodemon] to restart at any time, enter `rs`[39m
+27 Jul 18:45:51 - [33m[nodemon] watching: *.*[39m
+27 Jul 18:45:51 - [32m[nodemon] starting `node test.js`[39m
+27 Jul 18:45:51 - [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+27 Jul 19:17:09 - [33m[nodemon] v1.3.8[39m
+27 Jul 19:17:09 - [33m[nodemon] to restart at any time, enter `rs`[39m
+27 Jul 19:17:09 - [33m[nodemon] watching: *.*[39m
+27 Jul 19:17:09 - [32m[nodemon] starting `node test.js`[39m
+27 Jul 19:17:09 - [31m[nodemon] app crashed - waiting for file changes before starting...[39m
